@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SoundManager : MonoBehaviour
+public class Shredder : MonoBehaviour
 {
+
     // Use this for initialization
     void Start()
     {
+
     }
 
     // Update is called once per frame
@@ -15,15 +17,11 @@ public class SoundManager : MonoBehaviour
 
     }
 
-    private void Awake()
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        GameObject[] objects = GameObject.FindGameObjectsWithTag("Music");
-
-        if (objects.Length > 1)
+        if (collision.gameObject.tag == "Player")
         {
-            Destroy(gameObject);
+            Destroy(collision.gameObject);
         }
-
-        DontDestroyOnLoad(gameObject);
     }
 }

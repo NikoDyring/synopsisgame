@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour {
+public class PlayerMovement : MonoBehaviour
+{
 
-    // Serializing to show the field inside the editor, tooltip to describe wwhat it is.
+    // Serializing to show the field inside the editor, tooltip to describe what it is.
     [SerializeField]
     [Tooltip("Speed the player will move in the X axis.")]
     private float movementSpeed;
@@ -50,7 +51,7 @@ public class PlayerMovement : MonoBehaviour {
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         source = GetComponent<AudioSource>();
-        
+
     }
 
     void Update()
@@ -67,7 +68,7 @@ public class PlayerMovement : MonoBehaviour {
         // Adds velocity to the rigidbody in the move direction multiplied with our speed.
         // See more @ https://docs.unity3d.com/ScriptReference/Rigidbody2D-velocity.html
         rb2d.velocity = new Vector2(move * movementSpeed, rb2d.velocity.y);
-        
+
 
         // Animator
         // See more @ https://docs.unity3d.com/ScriptReference/Animator.SetFloat.html
@@ -112,7 +113,7 @@ public class PlayerMovement : MonoBehaviour {
 
     public void Jump()
     {
-        if(grounded)
+        if (grounded)
         {
             rb2d.AddForce(Vector2.up * jumpHeight, ForceMode2D.Impulse);
             grounded = false;
@@ -120,6 +121,6 @@ public class PlayerMovement : MonoBehaviour {
             source.clip = jumpSound;
             source.Play();
         }
-        
+
     }
 }
