@@ -77,3 +77,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92e243bd6737cca47b29efe79b62dc54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathMenu: {fileID: 0}

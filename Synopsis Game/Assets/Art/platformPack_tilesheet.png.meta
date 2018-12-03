@@ -3,90 +3,90 @@ guid: 26088ee6b805af74d9021bd78637436d
 TextureImporter:
   fileIDToRecycleName:
     21300000: Grass_Tile_01
-    21300002: platformPack_tilesheet_1
-    21300004: platformPack_tilesheet_2
-    21300006: platformPack_tilesheet_3
-    21300008: platformPack_tilesheet_4
-    21300010: platformPack_tilesheet_5
-    21300012: platformPack_tilesheet_6
-    21300014: platformPack_tilesheet_7
-    21300016: platformPack_tilesheet_8
-    21300018: platformPack_tilesheet_9
-    21300020: platformPack_tilesheet_10
-    21300022: platformPack_tilesheet_11
+    21300002: Sand_Tile_01
+    21300004: Snow_Tile_01
+    21300006: Dirt_Tile
+    21300008: Snow_Tile
+    21300010: Desert_Tile_01
+    21300012: Blue_Block
+    21300014: Yellow_Block
+    21300016: Blue_Target
+    21300018: Yellow_Target
+    21300020: Blue_Spinny
+    21300022: Yellow_Spinny
     21300024: platformPack_tilesheet_12
     21300026: Grass_Tile_02
-    21300028: platformPack_tilesheet_14
-    21300030: platformPack_tilesheet_15
-    21300032: platformPack_tilesheet_16
-    21300034: platformPack_tilesheet_17
-    21300036: platformPack_tilesheet_18
-    21300038: platformPack_tilesheet_19
-    21300040: platformPack_tilesheet_20
-    21300042: platformPack_tilesheet_21
-    21300044: platformPack_tilesheet_22
-    21300046: platformPack_tilesheet_23
-    21300048: platformPack_tilesheet_24
+    21300028: Sand_Tile_02
+    21300030: Snow_Tile_02
+    21300032: Rock_Tile
+    21300034: Ice_Tile
+    21300036: Desert_Tile_2
+    21300038: Green_Block
+    21300040: Orange_Block
+    21300042: Green_Target
+    21300044: Orange_Target
+    21300046: Green_Spinny
+    21300048: Orange_Spinny
     21300050: platformPack_tilesheet_25
     21300052: Grass_Tile_03
-    21300054: platformPack_tilesheet_27
-    21300056: platformPack_tilesheet_28
-    21300058: platformPack_tilesheet_29
-    21300060: platformPack_tilesheet_30
-    21300062: platformPack_tilesheet_31
-    21300064: platformPack_tilesheet_32
-    21300066: platformPack_tilesheet_33
-    21300068: platformPack_tilesheet_34
-    21300070: platformPack_tilesheet_35
-    21300072: platformPack_tilesheet_36
-    21300074: platformPack_tilesheet_37
-    21300076: Grass_Tile_05
-    21300078: platformPack_tilesheet_39
-    21300080: platformPack_tilesheet_40
-    21300082: platformPack_tilesheet_41
-    21300084: platformPack_tilesheet_42
-    21300086: platformPack_tilesheet_43
-    21300088: platformPack_tilesheet_44
-    21300090: platformPack_tilesheet_45
-    21300092: platformPack_tilesheet_46
-    21300094: platformPack_tilesheet_47
-    21300096: platformPack_tilesheet_48
-    21300098: platformPack_tilesheet_49
-    21300100: platformPack_tilesheet_50
-    21300102: platformPack_tilesheet_51
-    21300104: platformPack_tilesheet_52
-    21300106: platformPack_tilesheet_53
-    21300108: platformPack_tilesheet_54
-    21300110: platformPack_tilesheet_55
-    21300112: platformPack_tilesheet_56
-    21300114: platformPack_tilesheet_57
-    21300116: platformPack_tilesheet_58
-    21300118: platformPack_tilesheet_59
-    21300120: platformPack_tilesheet_60
-    21300122: platformPack_tilesheet_61
-    21300124: platformPack_tilesheet_62
-    21300126: platformPack_tilesheet_63
-    21300128: platformPack_tilesheet_64
+    21300054: Sand_Tile_03
+    21300056: Snow_Tile_03
+    21300058: Gold_Box_01
+    21300060: Gold_Box_02
+    21300062: Orange_Error
+    21300064: No_Diamond_Tile
+    21300066: Blue_Diamond_Tile
+    21300068: Yellow_Diamond_Tile
+    21300070: Green_Diamond_Tile
+    21300072: Orange_Diamond_Tile
+    21300074: No_Health
+    21300076: Grass_Tile_04
+    21300078: Sand_Tile_04
+    21300080: Snow_Tile_04
+    21300082: Wood_01
+    21300084: Wood_02
+    21300086: Green_Error
+    21300088: No_Gem_Tile
+    21300090: Blue_Gem_Tile
+    21300092: Yellow_Gem_Tile
+    21300094: Green_Gem_Tile
+    21300096: Orange_Gem_Tile
+    21300098: Half_Health
+    21300100: Wooden_Fence_01
+    21300102: Wooden_Fence_02
+    21300104: Bridge
+    21300106: Brick_01
+    21300108: Metal_01
+    21300110: White_Selection
+    21300112: No_Key_Tile
+    21300114: Blue_Key_Tile
+    21300116: Yellow_Key_Tile
+    21300118: Green_Key_Tile
+    21300120: Orange_Key_Tile
+    21300122: Full_Health
+    21300124: Spike
+    21300126: Cogwheel
+    21300128: Grass
     21300130: platformPack_tilesheet_65
     21300132: platformPack_tilesheet_66
-    21300134: platformPack_tilesheet_67
-    21300136: platformPack_tilesheet_68
-    21300138: platformPack_tilesheet_69
-    21300140: platformPack_tilesheet_70
-    21300142: platformPack_tilesheet_71
-    21300144: platformPack_tilesheet_72
-    21300146: platformPack_tilesheet_73
-    21300148: platformPack_tilesheet_74
-    21300150: platformPack_tilesheet_75
-    21300152: platformPack_tilesheet_76
-    21300154: platformPack_tilesheet_77
-    21300156: platformPack_tilesheet_78
-    21300158: platformPack_tilesheet_79
-    21300160: platformPack_tilesheet_80
-    21300162: platformPack_tilesheet_81
-    21300164: platformPack_tilesheet_82
-    21300166: platformPack_tilesheet_83
-    21300168: platformPack_tilesheet_84
+    21300134: Open_Door_Top
+    21300136: Blue_Door_Top
+    21300138: Yellow_Door_Top
+    21300140: Green_Door_Top
+    21300142: Ornage_Door_Top
+    21300144: Blue_Button
+    21300146: Blue_Button_Pressed
+    21300148: Yellow_Button
+    21300150: Yellow_Button_Pressed
+    21300152: Open_Door_Bottom
+    21300154: Blue_Door_Bottom
+    21300156: Yellow_Door_Bottom
+    21300158: Green_Door_Bottom
+    21300160: Orange_Door_Bottom
+    21300162: Green_Button
+    21300164: Green_Button_Pressed
+    21300166: Orange_Button
+    21300168: Orange_Button_Pressed
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -189,7 +189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_1
+      name: Sand_Tile_01
       rect:
         serializedVersion: 2
         x: 64
@@ -209,7 +209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_2
+      name: Snow_Tile_01
       rect:
         serializedVersion: 2
         x: 128
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_3
+      name: Dirt_Tile
       rect:
         serializedVersion: 2
         x: 192
@@ -249,7 +249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_4
+      name: Snow_Tile
       rect:
         serializedVersion: 2
         x: 256
@@ -269,7 +269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_5
+      name: Desert_Tile_01
       rect:
         serializedVersion: 2
         x: 320
@@ -289,7 +289,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_6
+      name: Blue_Block
       rect:
         serializedVersion: 2
         x: 384
@@ -309,7 +309,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_7
+      name: Yellow_Block
       rect:
         serializedVersion: 2
         x: 448
@@ -329,7 +329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_8
+      name: Blue_Target
       rect:
         serializedVersion: 2
         x: 512
@@ -349,7 +349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_9
+      name: Yellow_Target
       rect:
         serializedVersion: 2
         x: 576
@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_10
+      name: Blue_Spinny
       rect:
         serializedVersion: 2
         x: 640
@@ -389,7 +389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_11
+      name: Yellow_Spinny
       rect:
         serializedVersion: 2
         x: 704
@@ -449,7 +449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_14
+      name: Sand_Tile_02
       rect:
         serializedVersion: 2
         x: 64
@@ -469,7 +469,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_15
+      name: Snow_Tile_02
       rect:
         serializedVersion: 2
         x: 128
@@ -489,7 +489,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_16
+      name: Rock_Tile
       rect:
         serializedVersion: 2
         x: 192
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_17
+      name: Ice_Tile
       rect:
         serializedVersion: 2
         x: 256
@@ -529,7 +529,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_18
+      name: Desert_Tile_2
       rect:
         serializedVersion: 2
         x: 320
@@ -549,7 +549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_19
+      name: Green_Block
       rect:
         serializedVersion: 2
         x: 384
@@ -569,7 +569,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_20
+      name: Orange_Block
       rect:
         serializedVersion: 2
         x: 448
@@ -589,11 +589,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_21
+      name: Green_Target
       rect:
         serializedVersion: 2
         x: 512
-        y: 320
+        y: 319
         width: 64
         height: 64
       alignment: 0
@@ -609,7 +609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_22
+      name: Orange_Target
       rect:
         serializedVersion: 2
         x: 576
@@ -629,7 +629,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_23
+      name: Green_Spinny
       rect:
         serializedVersion: 2
         x: 640
@@ -649,7 +649,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_24
+      name: Orange_Spinny
       rect:
         serializedVersion: 2
         x: 704
@@ -709,7 +709,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_27
+      name: Sand_Tile_03
       rect:
         serializedVersion: 2
         x: 64
@@ -729,7 +729,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_28
+      name: Snow_Tile_03
       rect:
         serializedVersion: 2
         x: 128
@@ -749,7 +749,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_29
+      name: Gold_Box_01
       rect:
         serializedVersion: 2
         x: 192
@@ -769,7 +769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_30
+      name: Gold_Box_02
       rect:
         serializedVersion: 2
         x: 256
@@ -789,7 +789,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_31
+      name: Orange_Error
       rect:
         serializedVersion: 2
         x: 320
@@ -809,7 +809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_32
+      name: No_Diamond_Tile
       rect:
         serializedVersion: 2
         x: 384
@@ -829,7 +829,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_33
+      name: Blue_Diamond_Tile
       rect:
         serializedVersion: 2
         x: 448
@@ -849,7 +849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_34
+      name: Yellow_Diamond_Tile
       rect:
         serializedVersion: 2
         x: 512
@@ -869,7 +869,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_35
+      name: Green_Diamond_Tile
       rect:
         serializedVersion: 2
         x: 576
@@ -889,7 +889,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_36
+      name: Orange_Diamond_Tile
       rect:
         serializedVersion: 2
         x: 640
@@ -909,7 +909,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_37
+      name: No_Health
       rect:
         serializedVersion: 2
         x: 704
@@ -929,7 +929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_Tile_05
+      name: Grass_Tile_04
       rect:
         serializedVersion: 2
         x: 0
@@ -949,7 +949,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_39
+      name: Sand_Tile_04
       rect:
         serializedVersion: 2
         x: 64
@@ -969,7 +969,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_40
+      name: Snow_Tile_04
       rect:
         serializedVersion: 2
         x: 128
@@ -989,7 +989,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_41
+      name: Wood_01
       rect:
         serializedVersion: 2
         x: 192
@@ -1009,7 +1009,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_42
+      name: Wood_02
       rect:
         serializedVersion: 2
         x: 256
@@ -1029,7 +1029,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_43
+      name: Green_Error
       rect:
         serializedVersion: 2
         x: 320
@@ -1049,7 +1049,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_44
+      name: No_Gem_Tile
       rect:
         serializedVersion: 2
         x: 384
@@ -1069,7 +1069,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_45
+      name: Blue_Gem_Tile
       rect:
         serializedVersion: 2
         x: 448
@@ -1089,11 +1089,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_46
+      name: Yellow_Gem_Tile
       rect:
         serializedVersion: 2
         x: 512
-        y: 192
+        y: 191
         width: 64
         height: 64
       alignment: 0
@@ -1109,7 +1109,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_47
+      name: Green_Gem_Tile
       rect:
         serializedVersion: 2
         x: 576
@@ -1129,7 +1129,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_48
+      name: Orange_Gem_Tile
       rect:
         serializedVersion: 2
         x: 640
@@ -1149,7 +1149,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_49
+      name: Half_Health
       rect:
         serializedVersion: 2
         x: 704
@@ -1169,7 +1169,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_50
+      name: Wooden_Fence_01
       rect:
         serializedVersion: 2
         x: 0
@@ -1189,7 +1189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_51
+      name: Wooden_Fence_02
       rect:
         serializedVersion: 2
         x: 64
@@ -1209,7 +1209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_52
+      name: Bridge
       rect:
         serializedVersion: 2
         x: 128
@@ -1229,7 +1229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_53
+      name: Brick_01
       rect:
         serializedVersion: 2
         x: 192
@@ -1249,7 +1249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_54
+      name: Metal_01
       rect:
         serializedVersion: 2
         x: 256
@@ -1269,7 +1269,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_55
+      name: White_Selection
       rect:
         serializedVersion: 2
         x: 320
@@ -1289,7 +1289,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_56
+      name: No_Key_Tile
       rect:
         serializedVersion: 2
         x: 384
@@ -1309,11 +1309,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_57
+      name: Blue_Key_Tile
       rect:
         serializedVersion: 2
         x: 448
-        y: 128
+        y: 129
         width: 64
         height: 64
       alignment: 0
@@ -1329,7 +1329,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_58
+      name: Yellow_Key_Tile
       rect:
         serializedVersion: 2
         x: 512
@@ -1349,7 +1349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_59
+      name: Green_Key_Tile
       rect:
         serializedVersion: 2
         x: 576
@@ -1369,7 +1369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_60
+      name: Orange_Key_Tile
       rect:
         serializedVersion: 2
         x: 640
@@ -1389,7 +1389,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_61
+      name: Full_Health
       rect:
         serializedVersion: 2
         x: 704
@@ -1409,7 +1409,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_62
+      name: Spike
       rect:
         serializedVersion: 2
         x: 0
@@ -1429,7 +1429,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_63
+      name: Cogwheel
       rect:
         serializedVersion: 2
         x: 64
@@ -1449,7 +1449,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_64
+      name: Grass
       rect:
         serializedVersion: 2
         x: 128
@@ -1509,7 +1509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_67
+      name: Open_Door_Top
       rect:
         serializedVersion: 2
         x: 320
@@ -1529,7 +1529,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_68
+      name: Blue_Door_Top
       rect:
         serializedVersion: 2
         x: 384
@@ -1549,7 +1549,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_69
+      name: Yellow_Door_Top
       rect:
         serializedVersion: 2
         x: 448
@@ -1569,7 +1569,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_70
+      name: Green_Door_Top
       rect:
         serializedVersion: 2
         x: 512
@@ -1589,7 +1589,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_71
+      name: Ornage_Door_Top
       rect:
         serializedVersion: 2
         x: 576
@@ -1609,7 +1609,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_72
+      name: Blue_Button
       rect:
         serializedVersion: 2
         x: 640
@@ -1629,7 +1629,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_73
+      name: Blue_Button_Pressed
       rect:
         serializedVersion: 2
         x: 704
@@ -1649,7 +1649,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_74
+      name: Yellow_Button
       rect:
         serializedVersion: 2
         x: 768
@@ -1669,7 +1669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_75
+      name: Yellow_Button_Pressed
       rect:
         serializedVersion: 2
         x: 832
@@ -1689,7 +1689,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_76
+      name: Open_Door_Bottom
       rect:
         serializedVersion: 2
         x: 320
@@ -1709,7 +1709,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_77
+      name: Blue_Door_Bottom
       rect:
         serializedVersion: 2
         x: 384
@@ -1729,7 +1729,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_78
+      name: Yellow_Door_Bottom
       rect:
         serializedVersion: 2
         x: 448
@@ -1749,7 +1749,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_79
+      name: Green_Door_Bottom
       rect:
         serializedVersion: 2
         x: 512
@@ -1769,7 +1769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_80
+      name: Orange_Door_Bottom
       rect:
         serializedVersion: 2
         x: 576
@@ -1789,7 +1789,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_81
+      name: Green_Button
       rect:
         serializedVersion: 2
         x: 640
@@ -1809,7 +1809,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_82
+      name: Green_Button_Pressed
       rect:
         serializedVersion: 2
         x: 704
@@ -1829,7 +1829,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_83
+      name: Orange_Button
       rect:
         serializedVersion: 2
         x: 768
@@ -1849,7 +1849,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: platformPack_tilesheet_84
+      name: Orange_Button_Pressed
       rect:
         serializedVersion: 2
         x: 832

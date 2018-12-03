@@ -5,6 +5,9 @@ using UnityEngine;
 public class Shredder : MonoBehaviour
 {
 
+    [SerializeField]
+    private GameObject deathScreen;
+
     // Use this for initialization
     void Start()
     {
@@ -22,6 +25,7 @@ public class Shredder : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             Destroy(collision.gameObject);
+            GameManager.ShowDeathScreen(deathScreen);
         }
     }
 }

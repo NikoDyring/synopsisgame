@@ -32,4 +32,24 @@ public class GameManager : MonoBehaviour
     {
         DontDestroyOnLoad(gameObject);
     }
+
+    public static void ShowDeathScreen(GameObject deathMenu)
+    {
+        if(deathMenu != null)
+        {
+            deathMenu.SetActive(true);
+        }
+    }
+
+    public void PauseGame(GameObject pauseMenu)
+    {
+        pauseMenu.SetActive(true);
+        Time.timeScale = 0;
+    }
+
+    public void ResumeGame(GameObject pauseMenu)
+    {
+        pauseMenu.SetActive(false);
+        Time.timeScale = 1;
+    }
 }
