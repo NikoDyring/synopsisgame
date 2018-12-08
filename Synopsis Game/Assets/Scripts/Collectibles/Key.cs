@@ -19,6 +19,7 @@ public class Key : MonoBehaviour {
         if(collision.gameObject.tag == "Player")
         {
             Destroy(gameObject);
+            YellowDoor.isOpen = true;
         }
     }
 }
