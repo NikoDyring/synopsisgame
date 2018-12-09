@@ -10,11 +10,15 @@ public class YellowButton : MonoBehaviour {
     [SerializeField]
     private GameObject[] activatedBlocks;
 
+    private bool blocksDestroyed;
     private SpriteRenderer spriteRenderer;
+    private AudioSource audioSource;
 
 	// Use this for initialization
 	void Start () {
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
+        blocksDestroyed = false;
 	}
 	
 	// Update is called once per frame
@@ -24,14 +28,15 @@ public class YellowButton : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.tag == "Player")
+        if(collision.gameObject.tag == "Player" && !blocksDestroyed)
         {
             spriteRenderer.sprite = triggeredSprite;
-
+            audioSource.Play();
             foreach(var block in activatedBlocks)
             {
                 Destroy(block);
             }
+            blocksDestroyed = true;
         }
     }
 }

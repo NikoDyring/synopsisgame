@@ -36,7 +36,8 @@ public class YellowDoor : MonoBehaviour {
     {
         if(isOpen && collision.gameObject.tag == "Player")
         {
-            SceneManager.LoadScene("MainMenu");
+            SceneManager.LoadScene("Credits");
+            isOpen = false;
         }
     }
 }

@@ -45,17 +45,10 @@ public class PlayerMovement : MonoBehaviour
     // Using this for initialization
     void Start()
     {
-        // Sets the instance fields, to the instance we've got on our object.
-        // More info about RigidBody2D here: https://docs.unity3d.com/ScriptReference/Rigidbody2D.html
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         source = GetComponent<AudioSource>();
-
-    }
-
-    void Update()
-    {
 
     }
 
@@ -121,6 +114,5 @@ public class PlayerMovement : MonoBehaviour
             source.clip = jumpSound;
             source.Play();
         }
-
     }
 }
