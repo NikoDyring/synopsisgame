@@ -248,8 +248,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 5
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 2800000, guid: 503f4e47a010b5247ac7c5f3a78ff246, type: 3}
-  AndroidKeystoreName: 
-  AndroidKeyaliasName: 
+  AndroidKeystoreName: C:/Users/Niko/Documents/synopsisgame/Synopsis Game/mykeystore.keystore
+  AndroidKeyaliasName: mygame
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
