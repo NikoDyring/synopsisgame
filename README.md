@@ -1,7 +1,7 @@
 # 2D Android Game
 *A 2D Mobile game for my elective exam during the Computer Science associates degree.*
 
-**Joybot: The Game**
+### Joybot: The Game
 Joybot: The Game, is a simple 2D platformer where you have to collect coins and a key to unlock the next level.
 It had some basic mechanics such as:
 - Jumping
