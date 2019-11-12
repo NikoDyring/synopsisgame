@@ -15,4 +15,6 @@ It had some basic mechanics such as:
 - Visual Studio 2017
 - GIMP
 ---
-I ended up publishing the game on Google (has taken it down since then). To get a feel of getting a game going from start to finish. Ended up with a B in "Android Development". 
+I ended up publishing the game on Google (has taken it down since then). To get a feel of getting a game going from start to finish.
+
+Got a B for the project in "Android Development". 
