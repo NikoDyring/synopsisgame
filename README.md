@@ -18,3 +18,10 @@ It had some basic mechanics such as:
 I ended up publishing the game on Google (has taken it down since then). To get a feel of getting a game going from start to finish.
 
 Got a B for the project in "Android Development". 
+### Things I'd improve
+If I'd had more time for the actual programming and game development I'd have added more features such as:
+- More levels
+- More playable characters
+- More variety in environmental design
+
+Might one day go back and edit the game.
